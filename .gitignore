@@ -30,3 +30,6 @@ dist/*.spec
 
 # Allow the final executable
 !dist/*.exe
+
+# Ignore .spec files
+*.spec
