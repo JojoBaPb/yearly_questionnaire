@@ -16,3 +16,6 @@ desktop.ini
 # IDE-specific files
 .idea/
 .vscode/
+
+# answer file
+answer.json
