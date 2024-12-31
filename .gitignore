@@ -17,5 +17,8 @@ desktop.ini
 .idea/
 .vscode/
 
-# answer file
+# answer file .json
 answers_*.json
+
+# answer file .txt
+answers_*.txt
