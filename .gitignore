@@ -22,3 +22,11 @@ answers_*.json
 
 # answer file .txt
 answers_*.txt
+
+# Ignore the PyInstaller build directories
+build/
+dist/*.spec
+*.log
+
+# Allow the final executable
+!dist/*.exe
